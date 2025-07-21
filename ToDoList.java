@@ -1,3 +1,14 @@
+/*
+ * Project: Java To-Do List CLI App
+ * Author: Pathum Bandara (PathumXD)
+ * License: MIT License
+ 
+ * Description:
+  - A simple command-line based To-Do list application using Java.Supports viewing, adding, and removing tasks stored in a local text file. 
+
+ * Copyright (c) 2025 PathumXD
+*/
+
 import java.io.*;
 import java.util.Scanner;
 import java.util.ArrayList;
